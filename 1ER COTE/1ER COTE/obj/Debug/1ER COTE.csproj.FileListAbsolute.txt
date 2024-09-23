@@ -1,0 +1,10 @@
+C:\Users\guill\OneDrive\Documentos\1ER CORTE\1ER COTE\1ER COTE\obj\Debug\1ER COTE.csproj.AssemblyReference.cache
+C:\Users\guill\OneDrive\Documentos\1ER CORTE\1ER COTE\1ER COTE\obj\Debug\_1ER_COTE.RegistroDeEdadadGV.resources
+C:\Users\guill\OneDrive\Documentos\1ER CORTE\1ER COTE\1ER COTE\obj\Debug\_1ER_COTE.Properties.Resources.resources
+C:\Users\guill\OneDrive\Documentos\1ER CORTE\1ER COTE\1ER COTE\obj\Debug\1ER COTE.csproj.GenerateResource.cache
+C:\Users\guill\OneDrive\Documentos\1ER CORTE\1ER COTE\1ER COTE\obj\Debug\1ER COTE.csproj.CoreCompileInputs.cache
+C:\Users\guill\OneDrive\Documentos\1ER CORTE\1ER COTE\1ER COTE\bin\Debug\1ER COTE.exe.config
+C:\Users\guill\OneDrive\Documentos\1ER CORTE\1ER COTE\1ER COTE\bin\Debug\1ER COTE.exe
+C:\Users\guill\OneDrive\Documentos\1ER CORTE\1ER COTE\1ER COTE\bin\Debug\1ER COTE.pdb
+C:\Users\guill\OneDrive\Documentos\1ER CORTE\1ER COTE\1ER COTE\obj\Debug\1ER COTE.exe
+C:\Users\guill\OneDrive\Documentos\1ER CORTE\1ER COTE\1ER COTE\obj\Debug\1ER COTE.pdb
