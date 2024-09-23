@@ -131,7 +131,8 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "RegistroDeEdadadGV";
-            this.Text = "Form1";
+            this.Text = "Resgistro de edades. GJVV";
+            this.Load += new System.EventHandler(this.RegistroDeEdadadGV_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

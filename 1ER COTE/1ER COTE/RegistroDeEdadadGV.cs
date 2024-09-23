@@ -60,5 +60,10 @@ namespace _1ER_COTE
                 MessageBox.Show("No hay personas registradas.");
             }
         }
+
+        private void RegistroDeEdadadGV_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
