@@ -21,7 +21,7 @@ namespace _1ER_COTE
             // Agregar ciudades al ComboBox
             comboBoxCiudades.Items.Add("Leon");
             comboBoxCiudades.Items.Add("Masaya");
-            comboBoxCiudades.Items.Add("Managua");
+            comboBoxCiudades.Items.Add("Matagalpa");
             comboBoxCiudades.SelectedIndex = 0; 
         }
 
